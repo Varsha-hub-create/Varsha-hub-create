@@ -97,12 +97,11 @@ const varshini = {
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varsha-hub-create&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
+
 ## 🏆 Trophy Wall
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Varsha-hub-create&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Varsha-hub-create&theme=tokyonight&no-frame=true&no-bg=true" alt="GitHub Trophies"/>
 </div>
 
 <br/>
