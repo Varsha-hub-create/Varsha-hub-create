@@ -53,55 +53,31 @@ const varshini = {
 ```
 
 <br clear="right"/>
+
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+<div align="center">
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nodejs,express,mongodb,mysql,python,java,c,git,github,vscode,postman,npm,vite,firebase,figma" />
 
-### ⚛️ Frameworks & Libraries
+</div>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express" />
-</p>
-
-### 🗄️ Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### 🛠️ Tools & Platforms
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nodejs,express,mongodb,mysql,python,java,c,git,github,vscode,postman,npm,vite,firebase,figma" />
-</p>
-
-<br/>
+</br>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Varsha-hub-create&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varsha-hub-create&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Varsha-hub-create&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Varsha-hub-create&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Varsha-hub-create&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Varsha-hub-create&theme=tokyo-night&hide_border=true"/>
-
-</div>
 ## 💼 Experience
 
 <details open>
@@ -190,7 +166,7 @@ const varshini = {
   <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Gmail"/>
 </a>
 
-<a href="https://https://varshini-s-portfolio.youware.app/">
+<a href="https://varshini-s-portfolio.youware.app/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
