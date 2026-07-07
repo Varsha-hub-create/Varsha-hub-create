@@ -5,7 +5,11 @@
 </a>
 </div>
 <br/>
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+## 👨‍💻 About Me
+
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding"/>
+
+```javascript
 const varshini = {
   name: "Varshini S",
   role: "Full Stack Developer",
@@ -29,7 +33,11 @@ const varshini = {
     "Data Structures & Algorithms"
   ],
 
-  languages: ["Tamil", "English", "Telugu"],
+  languages: [
+    "Tamil",
+    "English",
+    "Telugu"
+  ],
 
   interests: [
     "Full Stack Development",
@@ -42,6 +50,7 @@ const varshini = {
 
   motto: () => "Code. Learn. Build. Repeat."
 };
+```
 
 <br clear="right"/>
 ## 🛠️ Tech Stack
@@ -66,10 +75,6 @@ const varshini = {
 
 ### 🛠️ Tools & Platforms
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vite" />
-</p>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nodejs,express,mongodb,mysql,python,java,c,git,github,vscode,postman,npm,vite,firebase,figma" />
 </p>
@@ -92,11 +97,15 @@ const varshini = {
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varsha-hub-create&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
-🏆 Trophy Wall
+## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Varsha-hub-create&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Varsha-hub-create&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+
 </div>
+
+<br/>
 ## 💼 Experience
 
 <details open>
