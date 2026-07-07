@@ -6,50 +6,77 @@
 </div>
 <br/>
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-javascriptconst varshini = {
-    name: "Varshini S",
-    location: "Dharmapuri, Tamil Nadu, India",
-    degree: "B.Tech - Information Technology",
-    college: "SNS College of Engineering",
-    stack: ["React.js", "Node.js", "Express.js", "MongoDB", "MySQL", "JavaScript"],
-    currentlyLearning: ["Advanced React Patterns", "Cloud Fundamentals (AWS)", "System Design Basics"],
-    languagesSpoken: ["Tamil", "English", "Telugu"],
-    funFact: "I turn coffee ☕ and curiosity into full-stack applications!",
-    motto: () => "Solve problems. Ship products. Keep learning."
+const varshini = {
+  name: "Varshini S",
+  role: "Full Stack Developer",
+  location: "Dharmapuri, Tamil Nadu, India",
+  degree: "B.Tech - Information Technology",
+  college: "SNS College of Engineering",
+
+  techStack: [
+    "React.js",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "MySQL",
+    "JavaScript"
+  ],
+
+  currentlyLearning: [
+    "Advanced React Patterns",
+    "Cloud Fundamentals (AWS)",
+    "System Design",
+    "Data Structures & Algorithms"
+  ],
+
+  languages: ["Tamil", "English", "Telugu"],
+
+  interests: [
+    "Full Stack Development",
+    "Web Applications",
+    "AI & Machine Learning",
+    "Cloud Computing"
+  ],
+
+  funFact: "I turn coffee ☕ and curiosity into full-stack applications!",
+
+  motto: () => "Code. Learn. Build. Repeat."
 };
 
 <br clear="right"/>
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-Languages
+### 💻 Languages
 
-Show Image
-Show Image
-Show Image
-Show Image
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python" />
+</p>
 
-Frameworks & Libraries
+### ⚛️ Frameworks & Libraries
 
-Show Image
-Show Image
-Show Image
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express" />
+</p>
 
-Databases
+### 🗄️ Databases
 
-Show Image
-Show Image
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
-Tools & Platforms
+### 🛠️ Tools & Platforms
 
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vite" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nodejs,express,mongodb,mysql,python,java,c,git,github,vscode,postman,npm,vite,firebase,figma" />
+</p>
 
 <br/>
-📊 GitHub Stats
+
+## 📊 GitHub Stats
 
 <div align="center">
 <a href="https://github.com/Varsha-hub-create">
@@ -70,56 +97,108 @@ Show Image
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Varsha-hub-create&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
 </div>
-💼 Experience
+## 💼 Experience
 
-<details>
-<summary><b>One to Infinity — Full Stack Development Intern | Aug 2025 - Oct 2025 | Remote</b></summary>
-<br/>
+<details open>
+<summary><b>🚀 Full Stack Development Intern | One to Infinity</b></summary>
 
-React.js Node.js Express.js MongoDB REST APIs
+**📅 Duration:** Aug 2025 – Oct 2025  
+**🌍 Mode:** Remote
 
+### 🛠️ Technologies Used
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,js,git,github,vscode" />
+</p>
 
+### 📌 Responsibilities & Achievements
 
-
-Completed an intensive full stack internship focused on building end-to-end MERN stack web applications
-Worked across frontend and backend layers, connecting React interfaces to Node.js/Express APIs
-Gained hands-on experience with database design and integration using MongoDB and MySQL
-Collaborated on real-time features and API-driven application architecture
-
+- Developed end-to-end **MERN Stack** web applications using **React.js**, **Node.js**, **Express.js**, and **MongoDB**.
+- Built responsive and user-friendly frontend interfaces with **React.js**.
+- Designed and integrated **RESTful APIs** using **Node.js** and **Express.js**.
+- Worked with **MongoDB** and **MySQL** for database design, CRUD operations, and data management.
+- Connected frontend applications with backend APIs to deliver dynamic, data-driven features.
+- Collaborated on real-time application development using Git-based version control.
+- Improved debugging, API integration, and full-stack development skills through hands-on project work.
 
 </details>
-🚀 Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
-ProjectStackHighlights🎫 Ticketing AppReact, Node.js, JWTResponsive event booking system with real-time ticket creation, booking & management, PDF generation, and secure JWT-based authentication🌦️ Weather AppReact.js, Weather APIDisplays real-time weather conditions, temperature, and forecasts for any location — including rain, wind, and humidity tracking🤖 AI AssistantPython, NLP, MLVirtual assistant that automates daily tasks and responds to user input using machine learning and natural language processing
+
+| 🚀 Project | 🛠️ Tech Stack | ✨ Highlights |
+|------------|--------------|---------------|
+| 🎫 **Ticketing App** | React.js, Node.js, Express.js, MongoDB, JWT | Responsive event booking platform with secure JWT authentication, real-time ticket creation & management, and PDF ticket generation. |
+| 🌦️ **Weather App** | React.js, OpenWeather API | Displays real-time weather, temperature, humidity, wind speed, and weather forecasts for any location. |
+| 🤖 **AI Assistant** | Python, NLP, Machine Learning | Virtual assistant that automates daily tasks, responds to voice/text input, and performs intelligent actions using NLP. |
+| 🍽️ **Recipe Finder** | React.js, REST API | Search recipes by ingredients or dish name, with detailed cooking instructions and images. |
+| 🎓 **Renting Study Hub** | HTML, CSS, JavaScript | Student platform for renting study materials with booking functionality and a responsive interface. |
 
 </div>
-🏅 Achievements & Certifications
+## 🏅 Achievements & Certifications
 
 <div align="center">
-🎖️AchievementDetails📊MS Excel CertificationCertificate of Completion — Introduction to MS Excel, Simplilearn (Feb 2025)📈Data Visualisation CertificationCertificate of Completion — Data Visualisation, TATA (Dec 2024)🤖AI MasterclassSuccessfully completed the 30 Days AI Masterclass, NoviTech (Aug 2024)🏁Mythonova ParticipationCertificate of Participation, organized by IIIT Sri City (Mar 2024)
+
+| 🏆 Achievement | 📄 Details |
+|---------------|------------|
+| 📊 **MS Excel Certification** | Certificate of Completion – **Introduction to MS Excel**, Simplilearn *(Feb 2025)* |
+| 📈 **Data Visualisation Certification** | Certificate of Completion – **Data Visualisation**, TATA *(Dec 2024)* |
+| 🤖 **30 Days AI Masterclass** | Successfully completed the **30 Days AI Masterclass**, NoviTech *(Aug 2024)* |
+| 🏁 **Mythonova Participation** | Certificate of Participation, organized by **IIIT Sri City** *(Mar 2024)* |
 
 </div>
-🎓 Education
+
+---
+
+## 🎓 Education
 
 <div align="center">
-DegreeInstitutionYearScoreB.Tech, Information TechnologySNS College of Engineering2022 - 2026CGPA: 9.33/10Higher SecondaryAvvaiyar Govt Girls Higher Secondary School2021 - 202286%SecondaryAvvaiyar Govt Girls Higher Secondary School2019 - 202079.4%
+
+| 🎓 Degree | 🏫 Institution | 📅 Year | 📊 Score |
+|-----------|----------------|---------|----------|
+| **B.Tech – Information Technology** | SNS College of Engineering | 2022 – 2026 | **CGPA: 9.33 / 10** |
+| **Higher Secondary (HSC)** | Avvaiyar Government Girls Higher Secondary School | 2021 – 2022 | **86%** |
+| **Secondary (SSLC)** | Avvaiyar Government Girls Higher Secondary School | 2019 – 2020 | **79.4%** |
 
 </div>
-📚 Currently Learning
+## 📚 Currently Learning
 
-🧱 System Design        → Scalability, Architecture Patterns
-☁️ Cloud Fundamentals   → AWS Basics, Deployment
-⚛️ Advanced React       → Performance Optimization, Custom Hooks
+- 🧱 **System Design** – Scalability, Design Patterns & Architecture
+- ☁️ **Cloud Fundamentals** – AWS Basics, Deployment & Hosting
+- ⚛️ **Advanced React** – Performance Optimization, Custom Hooks & State Management
+- 📊 **Data Structures & Algorithms** – Improving problem-solving skills
 
-📫 Connect With Me
+<br/>
+
+## 📫 Connect With Me
 
 <div align="center">
-Show Image
-Show Image
-Show Image
 
-Show Image
+<a href="https://github.com/Varsha-hub-create">
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:YOUR-EMAIL@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Gmail"/>
+</a>
+
+<a href="https://portfolio-link-if-any.com">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
 
 </div>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+💙 *Let's connect, collaborate, and build amazing projects together.*
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
