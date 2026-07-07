@@ -98,12 +98,6 @@ const varshini = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varsha-hub-create&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
-## 🏆 Trophy Wall
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Varsha-hub-create&theme=tokyonight&no-frame=true&no-bg=true" alt="GitHub Trophies"/>
-</div>
-
 <br/>
 ## 💼 Experience
 
@@ -185,15 +179,15 @@ const varshini = {
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+<a href="https://www.linkedin.com/in/varshini-s-/">
   <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
 </a>
 
-<a href="mailto:YOUR-EMAIL@gmail.com">
+<a href="mailto:varshinisakthivel18@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Gmail"/>
 </a>
 
-<a href="https://portfolio-link-if-any.com">
+<a href="https://https://varshini-s-portfolio.youware.app/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
